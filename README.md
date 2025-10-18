@@ -44,6 +44,6 @@
 </p>
 
 <p align="center">
-  <samp><b>“Clean code, clear mind — crafted on Linux.” 🐧</b></samp><br>
+  <samp><b>“Crafted on Linux.” 🐧</b></samp><br>
   <a href="mailto:jacoboblandon94@gmail.com"><samp>📧 jacoboblandon94@gmail.com</samp></a>
 </p>
