@@ -1,6 +1,8 @@
 <div align="center">
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FFFFFF&background=000000&center=true&vCenter=true&width=830&height=110&lines=Jacobo+Blandon+%E2%80%94+Software+Engineer;Backend+%26+Full-Stack+Developer;Available+for+opportunities)
+### Hi, I'm Jacobo 👋🏻
+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=000000&center=true&vCenter=true&width=440&height=30&lines=Software+Engineer+%C2%B7+Backend+%26+Full-Stack;Backend+%26+Full-Stack+Developer)
 
 <br>
 
