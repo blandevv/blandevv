@@ -2,8 +2,7 @@
 
 ### Hi, I'm Jacobo 👋🏻
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=440&height=30&lines=Software+Engineer+%C2%B7+Backend+%26+Full-Stack;Backend+%26+Full-Stack+Developer#gh-dark-mode-only)
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=000000&center=true&vCenter=true&width=440&height=30&lines=Software+Engineer+%C2%B7+Backend+%26+Full-Stack;Backend+%26+Full-Stack+Developer#gh-light-mode-only)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=888888&center=true&vCenter=true&width=540&height=30&lines=Software+Engineer+%C2%B7+Backend+%26+Full-Stack;Backend+%26+Full-Stack+Developer)
 
 <br>
 
