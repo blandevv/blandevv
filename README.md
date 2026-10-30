@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=540&height=50&lines=Hi,+I'm+Jacobo+👋🏻)
+### Hi, I'm Jacobo 👋
 
 ![](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=2000&color=888888&center=true&vCenter=true&width=540&height=30&lines=Software+Engineer+%C2%B7+Backend+%26+Full-Stack;Building+APIs+with+Spring+Boot+%26+FastAPI;Java+%C2%B7+Python+%C2%B7+TypeScript)
 
